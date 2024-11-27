@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Flashcards (Frontend)/*
+!/Flashcards (Frontend)/task/
+/Flashcards (Frontend)/task/*
+!/Flashcards (Frontend)/task/src
